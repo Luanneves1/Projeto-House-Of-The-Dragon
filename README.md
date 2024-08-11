@@ -1,6 +1,6 @@
 # Carrossel House of the Dragon
 
-![Carrossel House of the Dragon](homePage)
+![Carrossel House of the Dragon](src/homePage)
 
 ## Visão Geral
 
